@@ -1,0 +1,4 @@
+h: 0.01
+P_threshold: 50.0
+critical_enerhy: 15.0
+window_size: 300
